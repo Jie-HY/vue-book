@@ -7,3 +7,5 @@ app.get('/', (req, res) => res.send('Hello World!'));
 
 //监听3000端口为HTTP服务
 app.listen(3000, () => console.log('Example app listening on port 3000!'))
+
+//在终端运行    node app.js
