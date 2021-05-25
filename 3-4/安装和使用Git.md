@@ -14,3 +14,10 @@
     10、git merge feature               合并feature分支
         git merge --no-ff feature
     11、git branch -d feature           删除相关分支
+    12、git push                        推送至远程仓库
+        示例：
+            git push -u origin feature-D
+            git push -u origin master
+    13、git remote add                   添加远程仓库
+        示例：
+            git remote add origin git@github.com:github-book/git-tutoral.git
