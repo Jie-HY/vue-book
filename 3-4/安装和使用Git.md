@@ -21,3 +21,5 @@
     13、git remote add                   添加远程仓库
         示例：
             git remote add origin git@github.com:github-book/git-tutoral.git
+
+    14、git remote -v                   查看远程仓库地址
