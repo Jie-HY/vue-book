@@ -1,4 +1,4 @@
-#Node.js读书笔记
+# Node.js读书笔记
 	1、配置项	命令	描述
 	devDependencies	
 		--save-dev 简写 -D	
